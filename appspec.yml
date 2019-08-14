@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /index.html
+  - source: /Users/apple/Desktop/Anagram/Anagram/Anagram_V2/index.html
     destination: /var/www/html/
 hooks:
   BeforeInstall:
