@@ -46,6 +46,6 @@ anagram_dict = init_anagram_dict(word_dict.keys())
 allanas = get_all_anagrams_from_dict(word_dict, anagram_dict)
 #print(allanas)
 #print(len(allanas)), 'anagrams'
-mykey = 'silent'
+mykey = 'disco'
 #print(find_anagrams(mykey, anagram_dict))
 print('the anagrams of', mykey, 'are', find_anagrams(mykey, anagram_dict))
